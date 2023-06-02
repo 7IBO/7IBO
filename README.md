@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @7IBO
-- 👀 I’m interested in React Frameworks (Next.js, Remix.run...)
-- ❤ Love technologies like GraphQL, Prisma, MongoDB and many more ! 
-- 📚 I love learning new technologies, projects and open source code
-- 💼 I'm currently working at Fluidexpert (France) as a fullstack developer
+👋 Hi, I’m 7IBO
 
+- 👀 I’m interested in React Frameworks (Next.js, Remix.run...)
+- 📚 I love learning new technologies, projects and open source code (mostly in js/ts)
+- 💼 I'm currently working at Fluidexpert (France) as a junior lead developer
+
+### My stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2041%20mins-blue)
 
