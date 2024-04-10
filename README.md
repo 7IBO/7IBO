@@ -6,7 +6,7 @@
 
 ### My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,11 +37,12 @@ Sunday                   69 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 21 mins       █████████████████████████   99.66 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TypeScript               8 hrs 40 mins       █████████████████████████   99.12 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  7 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -57,5 +58,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2024 00:18:52 UTC
+ Last Updated on 10/04/2024 00:18:39 UTC
 <!--END_SECTION:waka-->
