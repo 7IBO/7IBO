@@ -6,9 +6,9 @@
 
 ### My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
 
@@ -37,14 +37,14 @@ Sunday                   69 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 55 mins       ███████████████████████░░   90.15 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               6 hrs 44 mins       ███████████████████████░░   90.87 % 
+JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -60,5 +60,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/05/2024 00:16:25 UTC
+ Last Updated on 09/05/2024 00:18:56 UTC
 <!--END_SECTION:waka-->
