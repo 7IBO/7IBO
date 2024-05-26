@@ -37,11 +37,10 @@ Sunday                   69 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               54 mins             ████████████████████████░   97.13 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -57,5 +56,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2024 00:18:44 UTC
+ Last Updated on 26/05/2024 00:20:58 UTC
 <!--END_SECTION:waka-->
