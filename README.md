@@ -1,8 +1,8 @@
 👋 Hi, I’m 7IBO
 
-- 👀 I’m interested in React Frameworks (Next.js, Remix.run...)
-- 📚 I love learning new technologies, projects and open source code (mostly in js/ts)
-- 💼 I'm currently working at Fluidexpert (France) as a junior lead developer
+- 👀 I’m interested in React Frameworks (Next.js, Remix)
+- 📚 I love learning new technologies, projects and read open source code (mostly with Next.js or Typescript)
+- 💼 I'm currently working at Fluidexpert (France) as a lead developer/software engineer (hydraulic company, so the technical team is very small and we do multiple things)
 
 ### My stats
 <!--START_SECTION:waka-->
