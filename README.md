@@ -6,15 +6,13 @@
 
 ### My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 55.3 kB Used in GitHub's Storage 
- > 
-> 🏆 123 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,11 +47,11 @@ Sunday                   69 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               8 hrs 45 mins       ████████████████████████░   97.67 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Prisma                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TypeScript               9 hrs 18 mins       ████████████████████████░   95.56 % 
+Prisma                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +71,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/7IBO/7IBO/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2025 00:24:55 UTC
+ Last Updated on 01/03/2025 00:27:37 UTC
 <!--END_SECTION:waka-->
