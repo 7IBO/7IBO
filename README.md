@@ -6,7 +6,7 @@
 
 ### My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
 
@@ -49,11 +49,11 @@ Sunday                   97 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               6 hrs 16 mins       ████████████████░░░░░░░░░   64.76 % 
-JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Prisma                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+TypeScript               6 hrs 10 mins       ████████████████░░░░░░░░░   62.73 % 
+JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Prisma                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +73,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/7IBO/7IBO/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 00:25:19 UTC
+ Last Updated on 13/03/2025 00:25:43 UTC
 <!--END_SECTION:waka-->
