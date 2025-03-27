@@ -49,11 +49,7 @@ Sunday                   97 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               3 hrs 19 mins       █████████████████████░░░░   83.03 % 
-JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +69,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/7IBO/7IBO/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2025 00:26:02 UTC
+ Last Updated on 27/03/2025 00:26:34 UTC
 <!--END_SECTION:waka-->
