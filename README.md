@@ -14,8 +14,6 @@
 
 > 📦 58.6 kB Used in GitHub's Storage 
  > 
-> 🏆 188 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -69,5 +67,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/7IBO/7IBO/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 00:27:16 UTC
+ Last Updated on 01/06/2025 00:35:06 UTC
 <!--END_SECTION:waka-->
