@@ -14,6 +14,8 @@
 
 > 📦 61.1 kB Used in GitHub's Storage 
  > 
+> 🏆 245 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -47,7 +49,7 @@ Sunday                   129 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -67,5 +69,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/7IBO/7IBO/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 00:27:50 UTC
+ Last Updated on 29/08/2025 00:27:45 UTC
 <!--END_SECTION:waka-->
