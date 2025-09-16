@@ -49,11 +49,7 @@ Sunday                   130 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Prisma                   15 mins             ███████████░░░░░░░░░░░░░░   42.03 % 
-TypeScript               9 mins              ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-TSConfig                 9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +69,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/7IBO/7IBO/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 00:29:02 UTC
+ Last Updated on 16/09/2025 00:26:56 UTC
 <!--END_SECTION:waka-->
