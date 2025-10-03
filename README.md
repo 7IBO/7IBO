@@ -6,8 +6,6 @@
 
 ### My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C186%20hrs%2014%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -22,36 +20,6 @@
  > 
 > 🔑 37 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3418 commits        ████████░░░░░░░░░░░░░░░░░   33.97 % 
-🌆 Daytime                6121 commits        ███████████████░░░░░░░░░░   60.83 % 
-🌃 Evening                490 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-🌙 Night                  34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1657 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Tuesday                  2137 commits        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Wednesday                1897 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Thursday                 2455 commits        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-Friday                   1736 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Saturday                 51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Sunday                   130 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -69,5 +37,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/7IBO/7IBO/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 00:26:29 UTC
+ Last Updated on 03/10/2025 00:26:08 UTC
 <!--END_SECTION:waka-->
