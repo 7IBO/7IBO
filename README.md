@@ -41,7 +41,7 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C199%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
 
@@ -71,7 +71,11 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 26 mins       ██████████████████░░░░░░░   72.47 % 
+Prisma                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,5 +91,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2025 01:10:49 UTC
+ Last Updated on 06/11/2025 01:10:06 UTC
 <!--END_SECTION:waka-->
