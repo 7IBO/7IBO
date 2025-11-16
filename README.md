@@ -41,8 +41,6 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C205%20hrs%2027%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -57,27 +55,6 @@ Powered by modern web tech and automation.
  > 
 > 🔑 38 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3418 commits        █████████░░░░░░░░░░░░░░░░   34.11 % 
-🌆 Daytime                6079 commits        ███████████████░░░░░░░░░░   60.66 % 
-🌃 Evening                490 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-🌙 Night                  34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               3 hrs 46 mins       ████████████████████░░░░░   78.35 % 
-Prisma                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -91,5 +68,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 01:07:41 UTC
+ Last Updated on 16/11/2025 01:10:33 UTC
 <!--END_SECTION:waka-->
