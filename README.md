@@ -41,13 +41,13 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C208%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 63.2 kB Used in GitHub's Storage 
+> 📦 63.3 kB Used in GitHub's Storage 
  > 
 > 🏆 271 Contributions in the Year 2025
  > 
@@ -71,11 +71,11 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 4 mins        ███████████████████████░░   90.76 % 
-Prisma                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+TypeScript               9 hrs 31 mins       █████████████████████░░░░   83.37 % 
+Prisma                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,5 +91,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2025 01:09:12 UTC
+ Last Updated on 18/11/2025 01:09:52 UTC
 <!--END_SECTION:waka-->
