@@ -41,7 +41,7 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C219%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C223%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
 
@@ -71,11 +71,11 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 4 mins       ███████████████████░░░░░░   77.19 % 
-Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Prisma                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+TypeScript               13 hrs 40 mins      ███████████████████░░░░░░   74.53 % 
+JSON                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Python                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Prisma                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,5 +91,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2025 01:08:32 UTC
+ Last Updated on 21/11/2025 01:12:54 UTC
 <!--END_SECTION:waka-->
