@@ -41,7 +41,7 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C238%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.2%20million%20lines%20of%20code-blue)
 
@@ -49,13 +49,13 @@ Powered by modern web tech and automation.
 
 > 📦 63.6 kB Used in GitHub's Storage 
  > 
-> 🏆 286 Contributions in the Year 2025
+> 🏆 287 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 23 Public Repositories 
  > 
-> 🔑 38 Private Repositories 
+> 🔑 37 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -71,11 +71,11 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 14 mins        ██████████████░░░░░░░░░░░   55.78 % 
-HTML                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               2 hrs 40 mins       ███████████████░░░░░░░░░░   61.12 % 
+Lua                      44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+CSS                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,5 +91,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2025 01:12:35 UTC
+ Last Updated on 17/12/2025 01:11:33 UTC
 <!--END_SECTION:waka-->
