@@ -41,15 +41,15 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C268%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.26%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.26%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 64.5 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 9 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -60,10 +60,10 @@ Powered by modern web tech and automation.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3426 commits        ████████░░░░░░░░░░░░░░░░░   33.52 % 
+🌞 Morning                3426 commits        ████████░░░░░░░░░░░░░░░░░   33.51 % 
 🌆 Daytime                6157 commits        ███████████████░░░░░░░░░░   60.23 % 
 🌃 Evening                595 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-🌙 Night                  44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+🌙 Night                  45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 
@@ -71,11 +71,11 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 17 mins       █████████████░░░░░░░░░░░░   52.81 % 
-JSON                     3 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.62 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-TSConfig                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+TypeScript               5 hrs 4 mins        ███████████████░░░░░░░░░░   60.29 % 
+JSON                     2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+MDX                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+TSConfig                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,5 +91,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 01:17:01 UTC
+ Last Updated on 06/01/2026 01:14:04 UTC
 <!--END_SECTION:waka-->
