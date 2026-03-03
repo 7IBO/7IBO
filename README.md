@@ -2,7 +2,7 @@
 
 💻 Fullstack web developer specializing in **Next.js, React & TypeScript**  
 🚀 I love turning ideas into fast, modern, and scalable web apps  
-🧩 Currently building **Inlinr Puzzle** — a community app for puzzle enthusiasts
+🧩 Currently building **RFT.gg** — the new hub for League of Legends Esports
 
 ## 🧠 About me
 
