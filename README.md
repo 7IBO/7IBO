@@ -43,13 +43,13 @@ Powered by modern web tech and automation.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C973%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.50%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 68.3 kB Used in GitHub's Storage 
+> 📦 69.0 kB Used in GitHub's Storage 
  > 
-> 🏆 958 Contributions in the Year 2026
+> 🏆 1,006 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -60,10 +60,10 @@ Powered by modern web tech and automation.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                681 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-🌆 Daytime                3577 commits        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-🌃 Evening                7039 commits        █████████████░░░░░░░░░░░░   53.77 % 
-🌙 Night                  1795 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+🌞 Morning                713 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+🌆 Daytime                3815 commits        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+🌃 Evening                7400 commits        █████████████░░░░░░░░░░░░   53.57 % 
+🌙 Night                  1885 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 ```
 
 
@@ -71,25 +71,25 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-TypeScript               33 hrs 23 mins      ██████████████████████░░░   89.94 % 
-Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TypeScript               29 hrs 17 mins      ██████████████████████░░░   89.03 % 
+Markdown                 2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               42 repos            ████████████████░░░░░░░░░   64.62 % 
-JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+TypeScript               42 repos            ████████████████░░░░░░░░░   63.64 % 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 14/06/2026 01:44:22 UTC
+ Last Updated on 15/06/2026 01:52:21 UTC
 <!--END_SECTION:waka-->
