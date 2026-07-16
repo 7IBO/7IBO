@@ -41,7 +41,7 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C176%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C172%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.48%20million%20lines%20of%20code-blue?style=flat)
 
@@ -49,7 +49,7 @@ Powered by modern web tech and automation.
 
 > 📦 69.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,214 Contributions in the Year 2026
+> 🏆 1,215 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -57,6 +57,27 @@ Powered by modern web tech and automation.
  > 
 > 🔑 43 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                730 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+🌆 Daytime                3381 commits        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+🌃 Evening                6852 commits        █████████████░░░░░░░░░░░░   53.55 % 
+🌙 Night                  1832 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               42 hrs 57 mins      ███████████████████░░░░░░   74.55 % 
+Markdown                 6 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+JavaScript               2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Other                    1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Bash                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -70,5 +91,5 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2026 03:18:48 UTC
+ Last Updated on 16/07/2026 03:31:29 UTC
 <!--END_SECTION:waka-->
