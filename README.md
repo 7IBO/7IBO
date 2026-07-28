@@ -41,13 +41,15 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C308%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C253%20hrs%202%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-795%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.23%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 69.8 kB Used in GitHub's Storage 
+> 📦 69.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,227 Contributions in the Year 2026
  > 
@@ -61,9 +63,9 @@ Powered by modern web tech and automation.
 
 ```text
 🌞 Morning                746 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-🌆 Daytime                3550 commits        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌆 Daytime                3549 commits        ███████░░░░░░░░░░░░░░░░░░   26.64 % 
 🌃 Evening                7095 commits        █████████████░░░░░░░░░░░░   53.26 % 
-🌙 Night                  1931 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+🌙 Night                  1931 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 ```
 
 
@@ -76,6 +78,30 @@ JavaScript               5 hrs 40 mins       ██░░░░░░░░░�
 Other                    5 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 Markdown                 4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 JSON                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 77 hrs 16 mins (98.45%)
+
+✍️ 27,508 lines written by AI, 788 lines written by hand (97.22% AI-written)
+
+🔤 2,563,362,643 Input Tokens, 7,418,505 Output Tokens
+
+💵 $12810.41 Estimated AI Cost This Week
+
+🧠 20 AI Sessions, 480 AI Prompts
+
+Opus                     28,352 lines        ████████████████████████░   97.78 % 
+Fable                    643 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.22% of written lines came from AI
+📚 Verbose Prompter — average 2,387 characters per prompt
+🔁 Iterative Prompter — average 24 prompts per session
+🚀 High AI Trust — 2.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,5 +117,5 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 04:07:12 UTC
+ Last Updated on 28/07/2026 03:25:31 UTC
 <!--END_SECTION:waka-->
