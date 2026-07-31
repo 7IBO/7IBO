@@ -41,15 +41,15 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C271%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C285%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-815%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-828%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.25%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.30%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 69.5 kB Used in GitHub's Storage 
+> 📦 69.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,227 Contributions in the Year 2026
  > 
@@ -62,10 +62,10 @@ Powered by modern web tech and automation.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                740 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-🌆 Daytime                3515 commits        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-🌃 Evening                7056 commits        █████████████░░░░░░░░░░░░   53.40 % 
-🌙 Night                  1902 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+🌞 Morning                743 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+🌆 Daytime                3519 commits        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+🌃 Evening                7061 commits        █████████████░░░░░░░░░░░░   53.28 % 
+🌙 Night                  1929 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 ```
 
 
@@ -73,35 +73,35 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-TypeScript               52 hrs 54 mins      ███████████████████░░░░░░   74.24 % 
-JavaScript               6 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Markdown                 4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Other                    2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Text                     1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+TypeScript               57 hrs 52 mins      ████████████████████░░░░░   80.44 % 
+JavaScript               6 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Markdown                 3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Other                    1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Batchfile                38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 70 hrs 20 mins (98.71%)
+⏱ AI Coding Time: 71 hrs 2 mins (98.74%)
 
-✍️ 41,556 lines written by AI, 818 lines written by hand (98.07% AI-written)
+✍️ 40,380 lines written by AI, 136 lines written by hand (99.66% AI-written)
 
-🔤 2,666,674,138 Input Tokens, 6,710,857 Output Tokens
+🔤 2,767,961,060 Input Tokens, 6,439,985 Output Tokens
 
-💵 $13370.49 Estimated AI Cost This Week
+💵 $13808.26 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 439 AI Prompts
+🧠 19 AI Sessions, 368 AI Prompts
 
-Opus                     42,477 lines        █████████████████████████   98.51 % 
-Fable                    643 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Opus                     41,650 lines        █████████████████████████   98.48 % 
+Fable                    643 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.07% of written lines came from AI
-📚 Verbose Prompter — average 2,293 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🚀 High AI Trust — 1.89% of changed lines were hand-edited
+🤖 AI-Driven — 99.66% of written lines came from AI
+📄 Detailed Prompter — average 1,250 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 0.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,5 +117,5 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 03:20:24 UTC
+ Last Updated on 31/07/2026 03:41:45 UTC
 <!--END_SECTION:waka-->
