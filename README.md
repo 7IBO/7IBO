@@ -41,15 +41,15 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C623%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C626%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C192%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C197%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 75.7 kB Used in GitHub's Storage 
+> 📦 75.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,980 Contributions in the Year 2026
  > 
@@ -62,10 +62,10 @@ Powered by modern web tech and automation.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1665 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-🌆 Daytime                19515 commits       ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                28868 commits       ████████████░░░░░░░░░░░░░   49.30 % 
-🌙 Night                  8507 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+🌞 Morning                1656 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+🌆 Daytime                19437 commits       ████████░░░░░░░░░░░░░░░░░   33.16 % 
+🌃 Evening                28915 commits       ████████████░░░░░░░░░░░░░   49.33 % 
+🌙 Night                  8607 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
 ```
 
 
@@ -73,35 +73,35 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-JavaScript               24 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   35.95 % 
-TypeScript               13 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Markdown                 11 hrs 9 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Other                    8 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Bash                     4 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+JavaScript               21 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   31.63 % 
+TypeScript               14 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Markdown                 12 hrs 1 min        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Other                    10 hrs 8 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Bash                     4 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 67 hrs 18 mins (99.73%)
+⏱ AI Coding Time: 67 hrs 24 mins (99.73%)
 
-✍️ 36,189 lines written by AI, 5 lines written by hand (99.99% AI-written)
+✍️ 31,097 lines written by AI, 5 lines written by hand (99.98% AI-written)
 
-🔤 45,999,395 Input Tokens, 7,466,227 Output Tokens
+🔤 44,659,027 Input Tokens, 7,279,406 Output Tokens
 
-💵 $2432.33 Estimated AI Cost This Week
+💵 $2374.98 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 320 AI Prompts
+🧠 15 AI Sessions, 328 AI Prompts
 
-Fable                    26,021 lines        ███████████████░░░░░░░░░░   60.39 % 
-Opus                     17,070 lines        ██████████░░░░░░░░░░░░░░░   39.61 % 
+Fable                    20,741 lines        ██████████████░░░░░░░░░░░   54.53 % 
+Opus                     17,295 lines        ███████████░░░░░░░░░░░░░░   45.47 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 1,287 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 1,243 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,5 +117,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 04:30:41 UTC
+ Last Updated on 07/09/2026 04:34:06 UTC
 <!--END_SECTION:waka-->
