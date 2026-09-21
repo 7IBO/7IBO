@@ -41,11 +41,11 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C728%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C738%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C325%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C336%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.29%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -62,10 +62,10 @@ Powered by modern web tech and automation.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2084 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-🌆 Daytime                20860 commits       ████████░░░░░░░░░░░░░░░░░   32.14 % 
-🌃 Evening                31924 commits       ████████████░░░░░░░░░░░░░   49.19 % 
-🌙 Night                  10028 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+🌞 Morning                1999 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+🌆 Daytime                20809 commits       ████████░░░░░░░░░░░░░░░░░   32.23 % 
+🌃 Evening                31909 commits       ████████████░░░░░░░░░░░░░   49.42 % 
+🌙 Night                  9853 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 ```
 
 
@@ -73,35 +73,35 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-Markdown                 19 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-Other                    18 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-TypeScript               16 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-JavaScript               6 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Python                   4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Other                    19 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   31.09 % 
+Markdown                 15 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+JavaScript               13 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+TypeScript               7 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Python                   4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 71 hrs 51 mins (99.51%)
+⏱ AI Coding Time: 63 hrs 28 mins (99.44%)
 
-✍️ 25,544 lines written by AI, 888 lines written by hand (96.64% AI-written)
+✍️ 12,009 lines written by AI, 887 lines written by hand (93.12% AI-written)
 
-🔤 106,979,578 Input Tokens, 21,483,918 Output Tokens
+🔤 121,515,854 Input Tokens, 26,306,395 Output Tokens
 
-💵 $3789.67 Estimated AI Cost This Week
+💵 $3861.26 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 210 AI Prompts
+🧠 11 AI Sessions, 187 AI Prompts
 
-Opus                     26,561 lines        █████████████████████████   100.00 % 
+Opus                     12,209 lines        █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.64% of written lines came from AI
-📚 Verbose Prompter — average 1,668 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 5.03% of changed lines were hand-edited
+🤖 AI-Driven — 93.12% of written lines came from AI
+📄 Detailed Prompter — average 1,395 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 10.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,5 +117,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 05:09:57 UTC
+ Last Updated on 21/09/2026 05:08:11 UTC
 <!--END_SECTION:waka-->
