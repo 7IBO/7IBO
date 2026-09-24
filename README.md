@@ -41,17 +41,17 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C740%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C744%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C350%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C355%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.29%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 81.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,092 Contributions in the Year 2026
+> 🏆 2,094 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -62,10 +62,10 @@ Powered by modern web tech and automation.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1999 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-🌆 Daytime                20814 commits       ████████░░░░░░░░░░░░░░░░░   32.22 % 
-🌃 Evening                31923 commits       ████████████░░░░░░░░░░░░░   49.42 % 
-🌙 Night                  9855 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+🌞 Morning                2007 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+🌆 Daytime                21161 commits       ████████░░░░░░░░░░░░░░░░░   32.33 % 
+🌃 Evening                32342 commits       ████████████░░░░░░░░░░░░░   49.41 % 
+🌙 Night                  9940 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
 ```
 
 
@@ -73,35 +73,35 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   38.98 % 
-Markdown                 14 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-JavaScript               13 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-TypeScript               4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-JSON                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Other                    26 hrs 10 mins      ████████████░░░░░░░░░░░░░   46.44 % 
+JavaScript               12 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Markdown                 12 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+TypeScript               2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+JSON                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 hrs 13 mins (99.39%)
+⏱ AI Coding Time: 55 hrs 19 mins (99.34%)
 
-✍️ 4,202 lines written by AI, 888 lines written by hand (82.55% AI-written)
+✍️ 3,228 lines written by AI, 888 lines written by hand (78.43% AI-written)
 
-🔤 99,121,948 Input Tokens, 22,974,544 Output Tokens
+🔤 92,727,107 Input Tokens, 21,710,639 Output Tokens
 
-💵 $3456.43 Estimated AI Cost This Week
+💵 $3157.12 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 183 AI Prompts
+🧠 8 AI Sessions, 130 AI Prompts
 
-Opus                     4,257 lines         █████████████████████████   100.00 % 
+Opus                     3,281 lines         █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.55% of written lines came from AI
-📄 Detailed Prompter — average 1,192 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 24.97% of changed lines were hand-edited
+🤖 AI-Driven — 78.43% of written lines came from AI
+📄 Detailed Prompter — average 1,456 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 30.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,5 +117,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 04:59:05 UTC
+ Last Updated on 24/09/2026 04:49:33 UTC
 <!--END_SECTION:waka-->
