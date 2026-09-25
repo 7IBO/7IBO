@@ -41,17 +41,17 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C744%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C762%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C355%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C373%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.01%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-106.17%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 81.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,094 Contributions in the Year 2026
+> 🏆 2,099 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -62,10 +62,10 @@ Powered by modern web tech and automation.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2007 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-🌆 Daytime                21161 commits       ████████░░░░░░░░░░░░░░░░░   32.33 % 
-🌃 Evening                32342 commits       ████████████░░░░░░░░░░░░░   49.41 % 
-🌙 Night                  9940 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+🌞 Morning                2058 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+🌆 Daytime                21995 commits       ████████░░░░░░░░░░░░░░░░░   32.50 % 
+🌃 Evening                33340 commits       ████████████░░░░░░░░░░░░░   49.26 % 
+🌙 Night                  10292 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 ```
 
 
@@ -73,35 +73,35 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-Other                    26 hrs 10 mins      ████████████░░░░░░░░░░░░░   46.44 % 
-JavaScript               12 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Markdown                 12 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-TypeScript               2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-JSON                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Markdown                 17 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Other                    17 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+JavaScript               15 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+TypeScript               4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Python                   2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 hrs 19 mins (99.34%)
+⏱ AI Coding Time: 60 hrs 7 mins (99.97%)
 
-✍️ 3,228 lines written by AI, 888 lines written by hand (78.43% AI-written)
+✍️ 10,317 lines written by AI, 8 lines written by hand (99.92% AI-written)
 
-🔤 92,727,107 Input Tokens, 21,710,639 Output Tokens
+🔤 68,194,401 Input Tokens, 18,966,330 Output Tokens
 
-💵 $3157.12 Estimated AI Cost This Week
+💵 $2611.77 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 130 AI Prompts
+🧠 7 AI Sessions, 151 AI Prompts
 
-Opus                     3,281 lines         █████████████████████████   100.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     7,978 lines         ██████████████████░░░░░░░   71.58 % 
+Sonnet                   1,815 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Fable                    1,353 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.43% of written lines came from AI
-📄 Detailed Prompter — average 1,456 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 30.25% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 2,440 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,5 +117,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 04:49:33 UTC
+ Last Updated on 25/09/2026 05:12:59 UTC
 <!--END_SECTION:waka-->
