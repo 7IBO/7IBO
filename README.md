@@ -41,11 +41,11 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C781%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C792%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C395%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C407%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.30%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-116.72%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -62,10 +62,10 @@ Powered by modern web tech and automation.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2140 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-🌆 Daytime                23530 commits       ████████░░░░░░░░░░░░░░░░░   32.82 % 
-🌃 Evening                35245 commits       ████████████░░░░░░░░░░░░░   49.16 % 
-🌙 Night                  10783 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+🌞 Morning                2179 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+🌆 Daytime                24625 commits       ████████░░░░░░░░░░░░░░░░░   32.96 % 
+🌃 Evening                36694 commits       ████████████░░░░░░░░░░░░░   49.11 % 
+🌙 Night                  11214 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 ```
 
 
@@ -73,35 +73,35 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-Markdown                 24 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   40.65 % 
-Other                    16 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-JavaScript               6 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-TypeScript               6 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Python                   2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Markdown                 33 hrs 3 mins       █████████████░░░░░░░░░░░░   50.52 % 
+Other                    12 hrs              █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+TypeScript               8 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+JavaScript               5 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Python                   2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 hrs 31 mins (99.84%)
+⏱ AI Coding Time: 65 hrs 15 mins (99.73%)
 
-✍️ 9,018 lines written by AI, 9 lines written by hand (99.9% AI-written)
+✍️ 9,254 lines written by AI, 18 lines written by hand (99.81% AI-written)
 
-🔤 44,426,009 Input Tokens, 9,064,411 Output Tokens
+🔤 59,910,998 Input Tokens, 11,242,570 Output Tokens
 
-💵 $1825.25 Estimated AI Cost This Week
+💵 $1484.13 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 248 AI Prompts
+🧠 7 AI Sessions, 330 AI Prompts
 
-Opus                     6,634 lines         █████████████████░░░░░░░░   67.68 % 
-Sonnet                   1,815 lines         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Fable                    1,353 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Opus                     6,856 lines         █████████████████░░░░░░░░   68.40 % 
+Sonnet                   1,815 lines         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Fable                    1,353 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 4,689 characters per prompt
-🔁 Iterative Prompter — average 35 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🤖 AI-Driven — 99.81% of written lines came from AI
+📚 Verbose Prompter — average 4,827 characters per prompt
+🔁 Iterative Prompter — average 47 prompts per session
+🚀 High AI Trust — 0.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,5 +117,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 05:35:33 UTC
+ Last Updated on 29/09/2026 06:10:16 UTC
 <!--END_SECTION:waka-->
