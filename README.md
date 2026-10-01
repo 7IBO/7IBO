@@ -41,31 +41,31 @@ Powered by modern web tech and automation.
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C802%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C809%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C419%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C428%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.52%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 81.2 kB Used in GitHub's Storage 
+> 📦 88.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,101 Contributions in the Year 2026
+> 🏆 2,105 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 27 Public Repositories 
  > 
-> 🔑 46 Private Repositories 
+> 🔑 47 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2197 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-🌆 Daytime                23927 commits       ████████░░░░░░░░░░░░░░░░░   32.80 % 
-🌃 Evening                35755 commits       ████████████░░░░░░░░░░░░░   49.01 % 
-🌙 Night                  11076 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+🌞 Morning                2162 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+🌆 Daytime                23652 commits       ████████░░░░░░░░░░░░░░░░░   32.79 % 
+🌃 Evening                35426 commits       ████████████░░░░░░░░░░░░░   49.11 % 
+🌙 Night                  10895 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
 ```
 
 
@@ -73,49 +73,49 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-Markdown                 41 hrs 6 mins       ███████████████░░░░░░░░░░   58.27 % 
-TypeScript               9 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Other                    7 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-JavaScript               6 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Python                   2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Markdown                 44 hrs 30 mins      ███████████████░░░░░░░░░░   60.55 % 
+TypeScript               8 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Other                    7 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+JavaScript               6 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Python                   2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 70 hrs 22 mins (99.75%)
+⏱ AI Coding Time: 73 hrs 20 mins (99.76%)
 
-✍️ 9,530 lines written by AI, 20 lines written by hand (99.79% AI-written)
+✍️ 8,104 lines written by AI, 20 lines written by hand (99.75% AI-written)
 
-🔤 70,209,679 Input Tokens, 9,237,826 Output Tokens
+🔤 77,682,810 Input Tokens, 8,628,743 Output Tokens
 
-💵 $1470.04 Estimated AI Cost This Week
+💵 $1430.76 Estimated AI Cost This Week
 
 🧠 7 AI Sessions, 327 AI Prompts
 
-Opus                     7,132 lines         █████████████████░░░░░░░░   69.24 % 
-Sonnet                   1,815 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Fable                    1,353 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Opus                     5,090 lines         ███████████████░░░░░░░░░░   61.64 % 
+Sonnet                   1,815 lines         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Fable                    1,353 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📚 Verbose Prompter — average 5,043 characters per prompt
+🤖 AI-Driven — 99.75% of written lines came from AI
+📚 Verbose Prompter — average 5,077 characters per prompt
 🔁 Iterative Prompter — average 47 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               46 repos            ████████████████░░░░░░░░░   64.79 % 
-JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+TypeScript               47 repos            ████████████████░░░░░░░░░   65.28 % 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
 
 
- Last Updated on 30/09/2026 05:46:12 UTC
+ Last Updated on 01/10/2026 06:03:50 UTC
 <!--END_SECTION:waka-->
