@@ -63,7 +63,7 @@ Powered by modern web tech and automation.
 
 ```text
 🌞 Morning                1582 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-🌆 Daytime                6607 commits        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+🌆 Daytime                6606 commits        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
 🌃 Evening                13013 commits       ████████████░░░░░░░░░░░░░   47.38 % 
 🌙 Night                  6265 commits        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
 ```
@@ -73,33 +73,33 @@ Powered by modern web tech and automation.
 
 ```text
 💬 Programming Languages: 
-Markdown                 37 hrs 25 mins      ████████████████░░░░░░░░░   64.73 % 
-Other                    11 hrs 13 mins      █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-TypeScript               4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-JavaScript               2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-JSON                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Markdown                 35 hrs 31 mins      ███████████████████░░░░░░   77.38 % 
+TypeScript               3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Other                    2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+JavaScript               2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+JSON                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 hrs 30 mins (99.45%)
+⏱ AI Coding Time: 45 hrs 36 mins (99.31%)
 
-✍️ 4,191 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,990 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 118,625,486 Input Tokens, 13,840,125 Output Tokens
+🔤 89,559,924 Input Tokens, 13,107,696 Output Tokens
 
-💵 $1932.81 Estimated AI Cost This Week
+💵 $1477.57 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 221 AI Prompts
+🧠 5 AI Sessions, 173 AI Prompts
 
-Opus                     4,239 lines         █████████████████████████   100.00 % 
+Opus                     4,038 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,523 characters per prompt
-🔁 Iterative Prompter — average 37 prompts per session
-🚀 High AI Trust — 0.54% of changed lines were hand-edited
+📚 Verbose Prompter — average 4,724 characters per prompt
+🔁 Iterative Prompter — average 35 prompts per session
+🚀 High AI Trust — 0.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,5 +115,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 05:44:08 UTC
+ Last Updated on 12/10/2026 05:59:22 UTC
 <!--END_SECTION:waka-->
