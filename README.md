@@ -1,8 +1,8 @@
 # 👋 Hey, I’m Thibault (7IBO)
 
-💻 Fullstack web developer specializing in **Next.js, React & TypeScript**  
+💻 Fullstack web developer specializing in **Next.js, React &amp; TypeScript**  
 🚀 I love turning ideas into fast, modern, and scalable web apps  
-🧩 Currently building [RFT.GG](https://rft.gg) — the new hub for League of Legends Esports
+🧩 Currently building inlinr.com
 
 ## 🧠 About me
 
@@ -39,61 +39,45 @@ Powered by modern web tech and automation.
 
 ✉️ [thibaultfayard.pro@gmail.com](mailto:thibaultfayard.pro@gmail.com)
 
-## My stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C882%20hrs%2051%20mins-blue?style=flat)
+<!--START_SECTION:inlinr-->
+<a href="https://inlinr.com/u/7IBO">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://inlinr.com/u/7IBO/readme.svg?theme=dark">
+    <img alt="@7IBO sur inlinr : 99h 12m de code, 30 derniers jours, 99% avec un assistant IA, surtout Markdown" src="https://inlinr.com/u/7IBO/readme.svg?theme=light">
+  </picture>
+</a>
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C523%20hrs%2012%20mins-blue?style=flat)
+### Statistiques de code · 30 derniers jours
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.16%20million%20lines%20of%20code-blue?style=flat)
+**99h 12m** de code, dont 99% avec un assistant IA. −16% par rapport à la période précédente.
 
-**🐱 My GitHub Data** 
+**4h 30m** par jour en moyenne · meilleur jour **18h 57m** (24 oct.) · **22** jours actifs · série de **8** jours
 
-> 📦 104.5 kB Used in GitHub's Storage 
- > 
-> 🏆 4,757 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 47 Private Repositories 
- > 
-**I'm a Night 🦉** 
+**Surtout dans Claude Code**
 
 ```text
-🌞 Morning                1748 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-🌆 Daytime                7612 commits        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-🌃 Evening                15362 commits       ████████████░░░░░░░░░░░░░   46.92 % 
-🌙 Night                  8016 commits        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Claude Code  98h 18m   ━━━━━━━━━━━━━━━   99%
+VS Code          54m                     <1%
 ```
 
-
-📊 **This Week I Spent My Time On** 
+**Surtout avec Claude Code**
 
 ```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+Claude Code  98h 18m   ━━━━━━━━━━━━━━━   99%
+Copilot           1m                     <1%
 ```
 
-🤖 **AI Coding This Week** 
+**Plus productif le mercredi**
 
 ```text
-No AI Coding Activity Tracked This Week
+lundi      7h 26m   ━                  8%
+mardi     17h 15m   ━━━               17%
+mercredi  34h 24m   ━━━━━             35%
+jeudi      16h 7m   ━━                16%
+vendredi   3h 45m   ━                  4%
+samedi     19h 8m   ━━━               19%
+dimanche    1h 5m                      1%
 ```
 
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               47 repos            ████████████████░░░░░░░░░   64.38 % 
-JavaScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-```
-
-
-
-
- Last Updated on 01/11/2026 05:36:17 UTC
-<!--END_SECTION:waka-->
+<sub>Suivi avec [inlinr](https://inlinr.com/u/7IBO)</sub>
+<!--END_SECTION:inlinr-->

@@ -1,0 +1,29 @@
+name: inlinr stats
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Replace the inlinr section
+        run: |
+          curl -fsS "https://inlinr.com/u/7IBO/readme.md" -o stats.md
+          python3 - <<'PY'
+          import re
+          readme = open("README.md", encoding="utf-8").read()
+          stats = open("stats.md", encoding="utf-8").read().strip()
+          pattern = r"<!--START_SECTION:inlinr-->.*?<!--END_SECTION:inlinr-->"
+          updated = re.sub(pattern, lambda m: stats, readme, flags=re.S)
+          open("README.md", "w", encoding="utf-8").write(updated)
+          PY
+          rm stats.md
+      - name: Commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git commit -am "Update coding stats" && git push)
