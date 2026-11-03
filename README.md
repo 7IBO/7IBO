@@ -43,41 +43,41 @@ Powered by modern web tech and automation.
 <a href="https://inlinr.com/u/7IBO">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://inlinr.com/u/7IBO/readme.svg?theme=dark">
-    <img alt="@7IBO sur inlinr : 99h 12m de code, 30 derniers jours, 99% avec un assistant IA, surtout Markdown" src="https://inlinr.com/u/7IBO/readme.svg?theme=light">
+    <img alt="@7IBO on inlinr: 99h 12m of coding, last 30 days, 99% with an AI assistant, mostly Markdown" src="https://inlinr.com/u/7IBO/readme.svg?theme=light">
   </picture>
 </a>
 
-### Statistiques de code · 30 derniers jours
+### Coding stats · last 30 days
 
-**99h 12m** de code, dont 99% avec un assistant IA. −16% par rapport à la période précédente.
+**99h 12m** of coding, 99% of it with an AI assistant. −16% vs previous period.
 
-**4h 30m** par jour en moyenne · meilleur jour **18h 57m** (24 oct.) · **22** jours actifs · série de **8** jours
+**4h 30m** a day on average · best day **18h 57m** (24 Oct) · **22** active days · **8**-day streak
 
-**Surtout dans Claude Code**
+**Mostly in Claude Code**
 
 ```text
 Claude Code  98h 18m   ━━━━━━━━━━━━━━━   99%
 VS Code          54m                     <1%
 ```
 
-**Surtout avec Claude Code**
+**Mostly with Claude Code**
 
 ```text
 Claude Code  98h 18m   ━━━━━━━━━━━━━━━   99%
 Copilot           1m                     <1%
 ```
 
-**Plus productif le mercredi**
+**Most productive on Wednesdays**
 
 ```text
-lundi      7h 26m   ━                  8%
-mardi     17h 15m   ━━━               17%
-mercredi  34h 24m   ━━━━━             35%
-jeudi      16h 7m   ━━                16%
-vendredi   3h 45m   ━                  4%
-samedi     19h 8m   ━━━               19%
-dimanche    1h 5m                      1%
+Monday      7h 26m   ━                  8%
+Tuesday    17h 15m   ━━━               17%
+Wednesday  34h 24m   ━━━━━             35%
+Thursday    16h 7m   ━━                16%
+Friday      3h 45m   ━                  4%
+Saturday    19h 8m   ━━━               19%
+Sunday       1h 5m                      1%
 ```
 
-<sub>Suivi avec [inlinr](https://inlinr.com/u/7IBO)</sub>
+<sub>Tracked with [inlinr](https://inlinr.com/u/7IBO)</sub>
 <!--END_SECTION:inlinr-->
