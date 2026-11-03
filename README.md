@@ -40,39 +40,37 @@ Powered by modern web tech and automation.
 ✉️ [thibaultfayard.pro@gmail.com](mailto:thibaultfayard.pro@gmail.com)
 
 <!--START_SECTION:inlinr-->
+## Coding stats · last 30 days
+
 <a href="https://inlinr.com/u/7IBO">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://inlinr.com/u/7IBO/readme.svg?theme=dark">
-    <img alt="@7IBO on inlinr: 99h 12m of coding, last 30 days, 99% with an AI assistant, mostly Markdown" src="https://inlinr.com/u/7IBO/readme.svg?theme=light">
+    <img alt="@7IBO on inlinr: 100h 14m of coding, last 30 days, 99% with an AI assistant, mostly Markdown" src="https://inlinr.com/u/7IBO/readme.svg?theme=light">
   </picture>
 </a>
 
-### Coding stats · last 30 days
-
-**99h 12m** of coding, 99% of it with an AI assistant. −16% vs previous period.
-
-**4h 30m** a day on average · best day **18h 57m** (24 Oct) · **22** active days · **8**-day streak
+**4h 33m** a day on average · best day **18h 57m** (24 Oct) · **22** active days · **8**-day streak
 
 **Mostly in Claude Code**
 
 ```text
-Claude Code  98h 18m   ━━━━━━━━━━━━━━━   99%
+Claude Code  99h 20m   ━━━━━━━━━━━━━━━   99%
 VS Code          54m                     <1%
 ```
 
 **Mostly with Claude Code**
 
 ```text
-Claude Code  98h 18m   ━━━━━━━━━━━━━━━   99%
+Claude Code  99h 20m   ━━━━━━━━━━━━━━━   99%
 Copilot           1m                     <1%
 ```
 
 **Most productive on Wednesdays**
 
 ```text
-Monday      7h 26m   ━                  8%
-Tuesday    17h 15m   ━━━               17%
-Wednesday  34h 24m   ━━━━━             35%
+Monday      7h 26m   ━                  7%
+Tuesday    18h 17m   ━━━               18%
+Wednesday  34h 24m   ━━━━━             34%
 Thursday    16h 7m   ━━                16%
 Friday      3h 45m   ━                  4%
 Saturday    19h 8m   ━━━               19%
