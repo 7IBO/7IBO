@@ -2,7 +2,7 @@
 
 💻 Fullstack web developer specializing in **Next.js, React &amp; TypeScript**  
 🚀 I love turning ideas into fast, modern, and scalable web apps  
-🧩 Currently building inlinr.com
+🧩 Currently building [inlinr.com](https://inlinr.com)
 
 ## 🧠 About me
 
@@ -45,11 +45,25 @@ Powered by modern web tech and automation.
 <a href="https://inlinr.com/u/7IBO">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://inlinr.com/u/7IBO/readme.svg?theme=dark">
-    <img alt="@7IBO on inlinr: 96h 5m of coding, last 30 days, 99% with an AI assistant, mostly Markdown" src="https://inlinr.com/u/7IBO/readme.svg?theme=light">
+    <img alt="@7IBO on inlinr: 91h 4m of coding, last 30 days, 100% with an AI assistant, mostly Markdown" src="https://inlinr.com/u/7IBO/readme.svg?theme=light">
   </picture>
 </a>
 
-**Mostly with Claude Code** · 99%
+**4h 8m** a day on average · best day **18h 57m** (24 Oct) · **22** active days · **10**-day streak
+
+**Mostly with Claude Code** · 100%
+
+**Most productive on Wednesdays**
+
+```text
+Monday         12s                     <1%
+Tuesday    11h 38m   ━━                13%
+Wednesday   39h 8m   ━━━━━━            43%
+Thursday   16h 18m   ━━━               18%
+Friday      3h 45m   ━                  4%
+Saturday    19h 8m   ━━━               21%
+Sunday       1h 5m                      1%
+```
 
 <sub>Tracked with [inlinr](https://inlinr.com/u/7IBO)</sub>
 <!--END_SECTION:inlinr-->
