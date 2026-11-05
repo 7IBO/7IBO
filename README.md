@@ -40,16 +40,16 @@ Powered by modern web tech and automation.
 ✉️ [thibaultfayard.pro@gmail.com](mailto:thibaultfayard.pro@gmail.com)
 
 <!--START_SECTION:inlinr-->
-## Coding stats · last 30 days
+## 📊 Coding stats
 
 <a href="https://inlinr.com/u/7IBO">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://inlinr.com/u/7IBO/readme.svg?theme=dark">
-    <img alt="@7IBO on inlinr: 91h 4m of coding, last 30 days, 100% with an AI assistant, mostly Markdown" src="https://inlinr.com/u/7IBO/readme.svg?theme=light">
+    <img alt="@7IBO on inlinr: 96h 32m of coding, last 30 days, 100% with an AI assistant, mostly Markdown" src="https://inlinr.com/u/7IBO/readme.svg?theme=light">
   </picture>
 </a>
 
-**4h 8m** a day on average · best day **18h 57m** (24 Oct) · **22** active days · **10**-day streak
+**4h 23m** a day on average · best day **18h 57m** (24 Oct) · **22** active days · **10**-day streak
 
 **Mostly with Claude Code** · 100%
 
@@ -57,11 +57,11 @@ Powered by modern web tech and automation.
 
 ```text
 Monday         12s                     <1%
-Tuesday    11h 38m   ━━                13%
-Wednesday   39h 8m   ━━━━━━            43%
-Thursday   16h 18m   ━━━               18%
+Tuesday    11h 38m   ━━                12%
+Wednesday   39h 8m   ━━━━━━            41%
+Thursday   21h 47m   ━━━               23%
 Friday      3h 45m   ━                  4%
-Saturday    19h 8m   ━━━               21%
+Saturday    19h 8m   ━━━               20%
 Sunday       1h 5m                      1%
 ```
 
