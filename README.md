@@ -45,22 +45,22 @@ Powered by modern web tech and automation.
 <a href="https://inlinr.com/u/7IBO">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://inlinr.com/u/7IBO/readme.svg?theme=dark">
-    <img alt="@7IBO on inlinr: 96h 32m of coding, last 30 days, 100% with an AI assistant, mostly Markdown" src="https://inlinr.com/u/7IBO/readme.svg?theme=light">
+    <img alt="@7IBO on inlinr: 95h 57m of coding, last 30 days, 100% with an AI assistant, mostly Markdown" src="https://inlinr.com/u/7IBO/readme.svg?theme=light">
   </picture>
 </a>
 
-**4h 23m** a day on average · best day **18h 57m** (24 Oct) · **22** active days · **10**-day streak
+**4h 21m** a day on average · best day **18h 57m** (24 Oct) · **22** active days · **11**-day streak
 
 **Mostly with Claude Code** · 100%
 
-**Most productive on Wednesdays**
+**Most productive on Thursdays**
 
 ```text
 Monday         12s                     <1%
 Tuesday    11h 38m   ━━                12%
-Wednesday   39h 8m   ━━━━━━            41%
-Thursday   21h 47m   ━━━               23%
-Friday      3h 45m   ━                  4%
+Wednesday  26h 53m   ━━━━              28%
+Thursday   29h 52m   ━━━━━             31%
+Friday      7h 19m   ━                  8%
 Saturday    19h 8m   ━━━               20%
 Sunday       1h 5m                      1%
 ```
